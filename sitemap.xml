@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://openinternals.com/posts/welcome-to-open-internals/</loc>
+    <loc>http://openinternals.github.io/posts/welcome-to-open-internals/</loc>
     <lastmod>2018-03-31T15:19:43+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://openinternals.com/categories/</loc>
+    <loc>http://openinternals.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://openinternals.com/posts/</loc>
+    <loc>http://openinternals.github.io/posts/</loc>
     <lastmod>2018-03-31T15:19:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://openinternals.com/tags/</loc>
+    <loc>http://openinternals.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://openinternals.com/</loc>
+    <loc>http://openinternals.github.io/</loc>
     <lastmod>2018-03-31T15:19:43+05:30</lastmod>
     <priority>0</priority>
   </url>

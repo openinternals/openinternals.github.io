@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Open Internals Podcast</title>
-    <link>http://openinternals.com/</link>
+    <link>http://openinternals.github.io/</link>
     <description>Recent content on The Open Internals Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Mar 2018 15:19:43 +0530</lastBuildDate>
     
-	<atom:link href="http://openinternals.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://openinternals.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to Open Internals</title>
-      <link>http://openinternals.com/posts/welcome-to-open-internals/</link>
+      <link>http://openinternals.github.io/posts/welcome-to-open-internals/</link>
       <pubDate>Sat, 31 Mar 2018 15:19:43 +0530</pubDate>
       
-      <guid>http://openinternals.com/posts/welcome-to-open-internals/</guid>
+      <guid>http://openinternals.github.io/posts/welcome-to-open-internals/</guid>
       <description>There are various technical podcasts out there. Some of my favorites are the SE Radio podcast.
 But none of them go as deeply into the guts of the open source packages as I would prefer. So, this I decided to roll my own podcast which is just about the technical details of open source packages.
 Hope it is useful!

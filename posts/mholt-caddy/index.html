@@ -14,7 +14,8 @@
   
   
   <meta name="twitter:title" content="github.com/mholt/caddy"/>
-  <meta name="twitter:description" content="Talking to Matt Holt!"/>
+  <meta name="twitter:description" content="Caddy is a cool web server written in Golang. Go standard library already has a production ready server, used to serve the chromium downloads etc, according to Andrew Gerrand. What caddy does is piggyback on that barebones implementation and add a lot of goodies to it. This includes automatic HTTPS and HTTP/2 support, QUIC support etc.
+The entire project is implemented as a pluggable architecture, so much so that the &ldquo;http&rdquo; type of server is a plugin."/>
   
   
   
@@ -67,7 +68,7 @@
                     </h1>
                     <h2 class="headline">
                     May 7, 2018 15:19
-                    · 4 words
+                    · 170 words
                     · 1 minute read
                       <span class="tags">
                       
@@ -76,7 +77,14 @@
                 </header>
                 
                 <section id="post-body">
-                    <p>Talking to Matt Holt!</p>
+                    <p>Caddy is a cool web server written in Golang. Go standard library already has a production ready server, used to serve the chromium downloads etc, according to Andrew Gerrand. What caddy does is piggyback on that barebones implementation and add a lot of goodies to it. This includes automatic HTTPS and HTTP/2 support, QUIC support etc.</p>
+
+<p>The entire project is implemented as a pluggable architecture, so much so that the &ldquo;http&rdquo; type of server is a plugin. The TLS features are plugins, all the directives in the Caddyfile is a plugin.</p>
+
+<p>The webserver can be configured with a command line arguments or with a Caddyfile. The Caddyfile is not JSON or YAML etc, it has it&rsquo;s own minimal syntax. The project has a parser to parse the Caddyfile.
+The project source is licensed under Apache 2.0, but the official binaries obtained from the website are not free for commercial usage.</p>
+
+<p>The docs are great and the website is lovely. Here we&rsquo;ll be talking to Matthew Holt, the author of Caddy</p>
 
                 </section>
             </article>

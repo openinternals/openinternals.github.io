@@ -17,7 +17,8 @@
       <pubDate>Mon, 07 May 2018 15:19:43 +0530</pubDate>
       
       <guid>https://openinternals.github.io/posts/mholt-caddy/</guid>
-      <description>Talking to Matt Holt!</description>
+      <description>Caddy is a cool web server written in Golang. Go standard library already has a production ready server, used to serve the chromium downloads etc, according to Andrew Gerrand. What caddy does is piggyback on that barebones implementation and add a lot of goodies to it. This includes automatic HTTPS and HTTP/2 support, QUIC support etc.
+The entire project is implemented as a pluggable architecture, so much so that the &amp;ldquo;http&amp;rdquo; type of server is a plugin.</description>
     </item>
     
     <item>

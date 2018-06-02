@@ -6,10 +6,22 @@
     <description>Recent content on The Open Internals Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 May 2018 15:19:43 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jun 2018 15:19:43 +0530</lastBuildDate>
     
 	<atom:link href="https://openinternals.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>github.com/zulip/zulip</title>
+      <link>https://openinternals.github.io/posts/zulip-zulip/</link>
+      <pubDate>Sat, 02 Jun 2018 15:19:43 +0530</pubDate>
+      
+      <guid>https://openinternals.github.io/posts/zulip-zulip/</guid>
+      <description>Zulip is a open source group chat application powered by a Python backend. In this podcast, I talk to Steve Howell, who is one of the longest serving core team members at Zulip.
+We start with the history of Zulip and move on to talk about the architecture details including the lifecycle of a message, the major components powering Zulip, the database schema to store the messages etc.
+
+Download</description>
+    </item>
     
     <item>
       <title>github.com/mholt/caddy</title>
